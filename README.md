@@ -6,4 +6,4 @@
 - drivers with annual income of $50,000 or more who accepted coffee house coupons are generally closer in age than those with less
 - recommended action is to distribute coffee house coupons to drivers with annual income less than $50,000 and under the age of 25
 
-Link to Github: [Link](http://a.com)
+Link to Github: [Link]([http://a.com](https://github.com/piersgrenier/Assignment_5.1))
